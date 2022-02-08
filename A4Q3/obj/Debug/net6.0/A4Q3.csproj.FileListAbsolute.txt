@@ -1,0 +1,15 @@
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\bin\Debug\net6.0\A4Q3.exe
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\bin\Debug\net6.0\A4Q3.deps.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\bin\Debug\net6.0\A4Q3.runtimeconfig.json
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\bin\Debug\net6.0\A4Q3.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\bin\Debug\net6.0\ref\A4Q3.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\bin\Debug\net6.0\A4Q3.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\obj\Debug\net6.0\A4Q3.csproj.AssemblyReference.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\obj\Debug\net6.0\A4Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\obj\Debug\net6.0\A4Q3.AssemblyInfoInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\obj\Debug\net6.0\A4Q3.AssemblyInfo.cs
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\obj\Debug\net6.0\A4Q3.csproj.CoreCompileInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\obj\Debug\net6.0\A4Q3.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\obj\Debug\net6.0\ref\A4Q3.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\obj\Debug\net6.0\A4Q3.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\Assignment-4\A4Q3\obj\Debug\net6.0\A4Q3.genruntimeconfig.cache
